@@ -9,6 +9,7 @@
 - https://tinder-clone-103e2.web.app/(React frontend for tinder clone)
 - https://gogola89-tinder.herokuapp.com/(nodejs backend for tinder clone with mongodb)
 - https://twitter-clone-f8bb0.web.app/(React twitter clone with firebase)
+- https://www.ncov19.co.ke/(covid tracker built by developers at 8teq.co.ke, I worked on trends and analysis)
 
 <!---
 gogola89/gogola89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
