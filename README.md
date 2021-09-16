@@ -11,7 +11,7 @@
 - https://twitter-clone-f8bb0.web.app/ (React twitter clone with firebase)
 - https://www.ncov19.co.ke/ (Kenya covid tracker built by developers at 8teq.co.ke, I worked on trends and analysis)
 - https://covid-19-tracker-cbf69.web.app/ (world covid-19 tracker dashboard using disease.sh API)
-- https://amazon-clone-3099e.web.app/ (Ecommerce application with React front-end and Firebase backend)
+- https://clone-3099e.web.app/ (Ecommerce application with React front-end and Firebase backend)
 
 <!---
 gogola89/gogola89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
