@@ -12,6 +12,8 @@
 - https://www.ncov19.co.ke/ (Kenya covid tracker built by developers at 8teq.co.ke, I worked on trends and analysis)
 - https://covid-19-tracker-cbf69.web.app/ (world covid-19 tracker dashboard using disease.sh API)
 - https://clone-3099e.web.app/ (Ecommerce application with React front-end and Firebase backend)
+- https://whatsapp-mern-5ea3e.web.app/ (Whatsapp chat application with react, node and mongodb made reltime by pusher)
+- https://whatsapp-gogola89.herokuapp.com (whatsapp backend hosted on heroku)
 
 <!---
 gogola89/gogola89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
